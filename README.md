@@ -1,6 +1,19 @@
-# STM32 Embedded Systems Projects
+<p align="center">
+  <img src="Images/STM32.jpg" alt="STM32 Embedded Systems Projects" width="100%">
+</p>
 
-A collection of Embedded Systems projects developed using the **STM32 NUCLEO-F446RE** development board and **STM32CubeIDE**. This repository contains beginner to intermediate examples covering GPIO, Interrupts, Communication Protocols, ADC, PWM, RTOS, LoRa communication, and mini projects.
+<h1 align="center">STM32 Embedded Systems Projects</h1>
+
+<p align="center">
+  A collection of Embedded Systems projects developed using the <b>STM32 NUCLEO-F446RE</b> development board and <b>STM32CubeIDE</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-STM32-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-C-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IDE-STM32CubeIDE-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Framework-HAL-red?style=for-the-badge">
+</p>
 
 ---
 
@@ -100,8 +113,11 @@ These projects help understand:
 
 # 📁 Repository Structure
 
-```
+```text
 STM32-Embedded-Projects/
+│
+├── Images/
+│   └── STM32.jpg
 │
 ├── 1_Led_Blink
 ├── 1_Switch_1_LED
@@ -126,8 +142,6 @@ STM32-Embedded-Projects/
 
 # 🎯 Target Audience
 
-This repository is useful for:
-
 - Beginners learning STM32
 - Embedded Systems Students
 - Electronics Engineering Students
@@ -149,16 +163,22 @@ This repository is useful for:
 
 # 🤝 Contributions
 
-Suggestions, improvements, and pull requests are always welcome. If you find any issue or have ideas for enhancement, feel free to open an issue or submit a pull request.
+Contributions, improvements, and suggestions are welcome.
+
+If you have ideas to improve these projects, feel free to fork the repository, create a pull request, or open an issue.
 
 ---
 
 # 📄 License
 
-This repository is available under the **MIT License**.
+This repository is licensed under the **MIT License**.
 
 ---
 
-## ⭐ If you found this repository helpful, consider giving it a Star!
+<div align="center">
 
-Happy Coding! 🚀
+### ⭐ If you found this repository useful, please consider giving it a Star!
+
+**Happy Coding! 🚀**
+
+</div>
